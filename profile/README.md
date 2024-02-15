@@ -3,7 +3,7 @@
 ###
 <br clear="both">
 
-  <img align="right" height="500" src="./octocat-acm.png"  />
+  <img align="right" height="400" src="./octocat-acm.png"  />
 <img align="left" height="400" src="https://pbs.twimg.com/profile_images/745018012231688197/tMVOBTyQ_400x400.jpg"  />
 
 
