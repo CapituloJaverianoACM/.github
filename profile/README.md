@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! We are ACM Student Chapter Javeriana and we are a student group, from Javeriana University</h2>
+<h2 align="left">Hey! We’re the Javeriana ACM Student Chapter, a student group from Javeriana University.</h2>
 
 ###
 <br clear="both">
