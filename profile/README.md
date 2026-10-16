@@ -55,31 +55,6 @@ El **Capítulo Estudiantil ACM de la Pontificia Universidad Javeriana** es un pu
 
 ---
 
-## ⚡ Actividad & Estadísticas
-
-<div align="center">
-
-  <!-- Animación de streak de actividad -->
-  <a href="https://github.com/CapituloJaverianoACM">
-    <img src="https://streak-stats.demolab.com?user=CapituloJaverianoACM&theme=transparent&border=004af5&stroke=004af5&ring=0085ca&fire=00c6ff&currStreakNum=004af5&sideNums=0085ca&currStreakLabel=0085ca&dates=64748b" alt="GitHub Streak" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Tarjetas de métricas dinámicas de GitHub en tonos azul ACM -->
-  <a href="https://github.com/CapituloJaverianoACM">
-    <img src="https://github-readme-stats.vercel.app/api?username=CapituloJaverianoACM&show_icons=true&theme=transparent&title_color=004af5&text_color=334155&icon_color=0085ca&border_color=004af5&border_radius=10" alt="GitHub Stats" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/CapituloJaverianoACM">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapituloJaverianoACM&layout=compact&theme=transparent&title_color=004af5&text_color=334155&border_color=004af5&border_radius=10" alt="Top Languages" />
-  </a>
-
-</div>
-
-<br/>
-
----
 
 ## 📬 Conéctate con el Capítulo
 
