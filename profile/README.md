@@ -1,151 +1,109 @@
-<h2 align="left">Hey! We’re the Javeriana ACM Student Chapter, a student group from Javeriana University.</h2>
-
-###
-<br clear="both">
-
-  <img align="right" height="400" src="./octocat-acm.png"  />
-<img align="left" height="400" src="https://pbs.twimg.com/profile_images/745018012231688197/tMVOBTyQ_400x400.jpg"  />
-
-
-<br clear="both">
-<br clear="both">
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CapituloJaverianoACM.CapituloJaverianoACM&left_color=darkviolet&right_color=black&left_text=ACM%20Profile%20Views"  />
-</div>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=planetscale" height="40" alt="planetscale logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=maven" height="40" alt="apachemaven logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pug" height="40" alt="pug logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://twitter.com/acmjaveriana" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=@ACMJaveriana&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  <!-- Logo ACM Javeriana Oficial -->
+  <a href="https://github.com/CapituloJaverianoACM">
+    <img src="./Azul_1.svg" width="280" alt="Logo ACM Javeriana Oficial" />
   </a>
+
+  <br/>
+
+  <!-- Texto dinámico animado (Typewriter) en azul ACM (#004af5) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=004AF5&center=true&vCenter=true&width=650&lines=%C2%A1Bienvenidos+al+Cap%C3%ADtulo+ACM+Javeriana!;Innovaci%C3%B3n%2C+Ciencia+%26+Comunidad;Impulsando+el+talento+en+computaci%C3%B3n;Construyendo+el+futuro+de+la+tecnolog%C3%ADa!" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <!-- Badges y Contador de Visitas -->
+  <p align="center">
+    <a href="https://visitor-badge.laobi.icu/badge?page_id=CapituloJaverianoACM.CapituloJaverianoACM&left_color=001e47&right_color=004af5&left_text=%F0%9F%91%80%20Visitors">
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=CapituloJaverianoACM.CapituloJaverianoACM&left_color=001e47&right_color=004af5&left_text=%F0%9F%91%80%20Visitors" alt="Visitors" />
+    </a>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Pontificia%20Universidad-Javeriana-001e47?style=flat-square&logo=google-classroom&logoColor=white" alt="Javeriana" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/ACM-Student%20Chapter-004af5?style=flat-square&logo=acm&logoColor=white" alt="ACM" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Bogot%C3%A1-Colombia-0085CA?style=flat-square&logo=google-maps&logoColor=white" alt="Bogotá, Colombia" />
+  </p>
+
+  <br/>
+
+  <!-- Mascota Octocat ACM -->
+  <img src="./octocat-acm.png" width="220" alt="ACM Octocat Mascot" />
+  <br/><sub><b>Comunidad & Open Source</b></sub>
+  
+</div>
+
+<br/>
+
+## 🌟 Sobre Nosotros
+
+El **Capítulo Estudiantil ACM de la Pontificia Universidad Javeriana** es un punto de encuentro para mentes apasionadas por la tecnología, las ciencias de la computación y el desarrollo de software. Conectamos el talento javeriano con la industria y el ecosistema global de ciencia y tecnología.
+
+<br/>
+
+<div align="center">
+
+| 💡 Aprendizaje & Charlas | 🏆 Competencias & Retos | 🤝 Comunidad & Proyectos |
+| :---: | :---: | :---: |
+| Talleres prácticos, seminarios técnicos y sesiones de innovación con expertos y egresados. | Entrenamientos y participación activa en maratones de programación competitiva (ICPC, Hackathons). | Espacios de networking, proyectos open source colaborativos e integración estudiantil. |
+
+</div>
+
+<br/>
+
+---
+
+## ⚡ Actividad & Estadísticas
+
+<div align="center">
+
+  <!-- Animación de streak de actividad -->
+  <a href="https://github.com/CapituloJaverianoACM">
+    <img src="https://streak-stats.demolab.com?user=CapituloJaverianoACM&theme=transparent&border=004af5&stroke=004af5&ring=0085ca&fire=00c6ff&currStreakNum=004af5&sideNums=0085ca&currStreakLabel=0085ca&dates=64748b" alt="GitHub Streak" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Tarjetas de métricas dinámicas de GitHub en tonos azul ACM -->
+  <a href="https://github.com/CapituloJaverianoACM">
+    <img src="https://github-readme-stats.vercel.app/api?username=CapituloJaverianoACM&show_icons=true&theme=transparent&title_color=004af5&text_color=334155&icon_color=0085ca&border_color=004af5&border_radius=10" alt="GitHub Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/CapituloJaverianoACM">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapituloJaverianoACM&layout=compact&theme=transparent&title_color=004af5&text_color=334155&border_color=004af5&border_radius=10" alt="Top Languages" />
+  </a>
+
+</div>
+
+<br/>
+
+---
+
+## 📬 Conéctate con el Capítulo
+
+¡Participa en nuestras actividades y entérate de convocatorias, eventos y retos!
+
+<div align="center">
+
   <a href="https://www.instagram.com/acmjaveriana/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=@acmjaveriana&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-@acmjaveriana-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/acmjaveriana" target="_blank">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-@ACMJaveriana-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.youtube.com/@acmjaveriana2999" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=acmjaveriana&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+    <img src="https://img.shields.io/badge/YouTube-acmjaveriana-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
+
 </div>
 
+<br/>
 
-###
-
-<br clear="both">
-
+<!-- Footer con olas animadas fluidas en tonos Azul ACM -->
 <div align="center">
-  <img height="2" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001E47,40:004AF5,75:0085CA,100:00C6FF&height=120&section=footer" width="100%" alt="Footer Wave" />
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="500" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"  />
-</div>
-
-###
-
-
